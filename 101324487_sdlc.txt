@@ -1,1 +1,14 @@
 this file will contain info about why devops engineering is important
+
+ DevOps engineer must know how to manage the IT infrastructure that supports software code in dedicated, Multi-tenant or hybrid cloud environments. They might have to provision resources, select an appropriate deployment model, direct testing protocol to validate each release and monitor performance after release. Tasks might include test data preparation, results analysis, problem troubleshooting and issue communication back to the software developers.
+
+The DevOps approach to software development aims for frequent, incremental changes to code versions, which means frequent deployment and testing regimens. 
+Although DevOps engineers rarely code from scratch, they must understand the basics of software development languages and be familiar with the development tools used to create new code or update existing code. 
+A DevOps engineer works with development staff to tackle the necessary coding and scripting to connect various application elements, such as APIs, libraries and software development kits (SDKs), and integrate other components such as SQL data management or messaging tools that DevOps teams need to run the software release on OSes and production infrastructure. 
+
+Specifically, a DevOps engineer focuses on automation and maintenance in the live environment, 
+so it's common to find job roles that underscore automation and maintenance of software products, 
+systems and services. For example, a DevOps engineer would automate and maintain a big data build pipeline; 
+perform on-call service for the system availability; develop or source application and system management tools that mitigate manual effort; 
+implement automated management features, such as performance monitoring, diagnostics and failover and availability capabilities; and
+ evaluate risks for all changes while maintaining high availability within the environment.
