@@ -12,3 +12,5 @@ systems and services. For example, a DevOps engineer would automate and maintain
 perform on-call service for the system availability; develop or source application and system management tools that mitigate manual effort; 
 implement automated management features, such as performance monitoring, diagnostics and failover and availability capabilities; and
  evaluate risks for all changes while maintaining high availability within the environment.
+
+thats why DevOps is important
