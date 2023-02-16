@@ -1,2 +1,0 @@
-DevOps is a term used to describe a set of practices that focus on collaboration, communication, and integration between development and operations teams in order to streamline the software development process. The aim of DevOps is to reduce the time it takes to deliver new features and updates to customers, while also improving the overall quality of the software. It involves automating the software delivery pipeline, so that code can be tested and deployed quickly and reliably..
-
