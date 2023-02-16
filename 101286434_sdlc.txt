@@ -1,0 +1,1 @@
+DevOps lifecycle is defined as a combination of different phases of continuous software development, integration, testing, deployment, and monitoring. A competent DevOps lifecycle is necessary to build superior quality software through the system.
