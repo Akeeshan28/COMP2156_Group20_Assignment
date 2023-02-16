@@ -1,8 +1,9 @@
 Read this file
 AMR
-create 3 files
+created 3 files
 made 10 commit
-merged successfully
+mergerd
+
 
 Akeeshan
 created 3 files
